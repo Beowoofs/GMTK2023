@@ -1,0 +1,1 @@
+destroy_state += 0.5;
